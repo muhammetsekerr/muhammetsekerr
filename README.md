@@ -13,7 +13,7 @@
 
 ## Hakkımda
 
-Merhaba! Ben Muhammet Şeker, bir yazılım geliştiricisiyim. Bilgisayar Mühendisliği Yapay zeka alanında yüksek lisans yapyıyorum ve Python dilinde kendimi geliştiriyorum. Web geliştirme alanında çalışıyorum. React ile web sitesi geliştiriyorum ve bu alanda da kendimi geliştirmeye devam ediyorum.
+Merhaba! Ben Muhammet Şeker, bir yazılım geliştiricisiyim. Bilgisayar Mühendisliği Yapay zeka alanında yüksek lisans yapıyorum ve Python dilinde kendimi geliştiriyorum. Web geliştirme alanında çalışıyorum. React ile web sitesi geliştiriyorum ve bu alanda da kendimi geliştirmeye devam ediyorum.
 
 ## İletişim Bilgileri
 
